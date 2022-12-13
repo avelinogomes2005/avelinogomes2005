@@ -4,4 +4,4 @@
 
 - 📚 Curso técnico em **Informática na EEEP Manoel Mano 2/3**
 - 🤝 Siga meu [Instagram]()
-- 📫 Contato: **gomesavelino2020@gmail.com **
+- 📫 Contato: **gomesavelino2020@gmail.com**
