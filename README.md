@@ -1,15 +1,15 @@
 ### 
 <h1 align="center">Olá 👋, eu sou Avelino Gomes</h1>
-<h3 align="center">Abaixo você encontrará alguns dos meus projetos em diversas linguagens </h3>
+<h3 align="center">Abaixo você encontrará alguns dos meus projetos em diversas linguagens; </h3>
 
 - 📚 Curso técnico em **Informática na EEEP Manoel Mano 3/3**
 
 
-## 📞 Contatos
+## 📞 Contacts
 <div> <a href="https://instagram.com/avelinolima_?igshid=Zjc2ZTc4Nzk="><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:gomesavelino2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  target="_blank" rel="noopener noreferrer"></a>
 
-##  🛠 Tecnologia
+## 🛠 Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -21,5 +21,5 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
-## 🐍 Cobra
+## 🐍 Snake
 ![ Animação de cobra ](https://github.com/RobertMiguel/RobertMiguel/blob/output/github-contribution-grid-snake.svg)
