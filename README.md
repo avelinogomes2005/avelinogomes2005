@@ -1,8 +1,4 @@
-### 
-<h1 align="center">Olá 👋, eu sou Avelino Gomes</h1>
-<h3 align="center">Abaixo você encontrará alguns dos meus projetos em diversas linguagens; </h3>
 
-- 📚 Curso técnico em **Informática na EEEP Manoel Mano;**
 
 
 ## 📞 Contacts
@@ -22,3 +18,5 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
   
+## 🐍 Snake
+![ Animação de cobra ](https://github.com/RobertMiguel/RobertMiguel/blob/output/github-contribution-grid-snake.svg)
