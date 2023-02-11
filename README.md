@@ -1,6 +1,6 @@
 ### 
 <h1 align="center">Olá 👋, eu sou Avelino Gomes</h1>
-<h3 align="center">Abaixo você encontrará alguns dos meus projetos em diversas linguagens</h3>
+<h3 align="center">Abaixo você encontrará alguns dos meus projetos em diversas linguagens.</h3>
 
 - 📚 Curso técnico em **Informática na EEEP Manoel Mano - Crateús;**
 
